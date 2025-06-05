@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Zain Shabbir
 
-I'm an aspiring **Junior Data Scientist** with a strong interest in solving real-world problems through data. With a background in digital platforms and a passion for analytical thinking, I'm actively transitioning into data science and building a portfolio that showcases my skills, curiosity, and commitment to growth.
+I'm a **Junior Data Scientist** with a strong interest in solving real-world problems through data. With a background in digital platforms and a passion for analytical thinking, I'm actively transitioning into data science and building a portfolio that showcases my skills, curiosity, and commitment to growth.
 
 ---
 
