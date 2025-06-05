@@ -54,7 +54,7 @@ I'm an aspiring **Junior Data Scientist** with a strong interest in solving real
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-zain-shabbir-/)
 - 📧 Email: zainshabbir87@gmail.com  
-- 🌐 Personal portfolio site: muhammadzainshabbir.mystrikingly.com/ 
+- 🌐 Personal portfolio site: (https://muhammadzainshabbir.mystrikingly.com/)
 
 ---
 
