@@ -6,7 +6,7 @@ I'm a ** Data Scientist** with a strong interest in solving real-world problems 
 
 ## 🧠 Who Am I?
 
-- 🧪 Junior Data Scientist (in training) passionate about data-driven decision-making
+- 🧪 Data Scientist (in training) passionate about data-driven decision-making
 - 🎓 Learning Python, statistics, and machine learning through hands-on projects
 - 🔍 Focused on transforming raw data into clear insights and actionable solutions
 - 🤝 Eager to collaborate on data projects and contribute to open-source initiatives
